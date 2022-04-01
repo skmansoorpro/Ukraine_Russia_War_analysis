@@ -1,51 +1,51 @@
-Country,2016,2017,2018,2019,2020,2021,Total
-India,1922,1551,1322,1562,1241,1392,8990
-China,691,986,1767,1179,632,773,6028
-Algeria,1592,1021,1140,,522,150,4424
-Egypt,178,1118,860,763,454,,3372
-Viet Nam,702,465,333,137,9,72,1718
-Kazakhstan,198,163,267,220,266,85,1199
-Iraq,352,173,427,126,,,1078
-Belarus,114,147,141,333,13,62,810
-Angola,98,63,188,125,,,474
-Iran,413,3,3,3,2,,424
-Armenia,110,18,,228,,,356
-Turkey,,,,280,32,31,344
-Syria,3,32,181,,84,11,311
-Serbia,14,65,,67,119,31,296
-Bangladesh,154,93,,34,,,281
-Pakistan,49,44,70,64,40,11,278
-Myanmar,,69,72,31,64,,235
-UAE,,,40,80,80,,200
-Azerbaijan,7,109,53,,,,169
-Uzbekistan,,8,8,48,46,47,156
-Jordan,,,60,60,,,120
-Laos,,,66,18,17,3,105
-Nigeria,,24,24,13,38,7,105
-Nicaragua,86,7,,,,,93
-Sudan,51,24,0,,,,75
-Mali,,23,,12,12,27,73
-Ethiopia,,,,69,,,69
-Turkmenistan,36,,,,,7,43
-Qatar,,,20,20,,,40
-Kyrgyzstan,9,13,1,14,,,37
-Thailand,,,14,,,20,34
-Bahrain,10,,21,,,,31
-Tajikistan,8,19,,3,,,30
-Peru,20,,,,,,20
-Mongolia,,,,17,,,17
-Burkina Faso,,,14,,,,14
-Niger,,,,,14,,14
-Saudi Arabia,,,,12,,,12
-Cameroon,11,,,,,,11
-Indonesia,,,,,,9,9
-Equatorial Guinea,,,7,,,,7
-Mozambique,,,,7,,,7
-Brazil,5,,,,,,5
-Cambodia,,,,,,5,5
-Zambia,,,,5,,,5
-South Sudan,4,,,,,,4
-Unknown recipient(s),,,,,3,,3
-Central African Republic,,,,,1,,1
-Greece,,,,1,,,1
-Cote d'Ivoire,,,0,,,,0
+Continent,Country,2016,2017,2018,2019,2020,2021,Total
+Asia,India,1922,1551,1322,1562,1241,1392,8990
+Asia,China,691,986,1767,1179,632,773,6028
+Africa,Algeria,1592,1021,1140,,522,150,4424
+Africa,Egypt,178,1118,860,763,454,,3372
+Asia,Viet Nam,702,465,333,137,9,72,1718
+Asia,Kazakhstan,198,163,267,220,266,85,1199
+Asia,Iraq,352,173,427,126,,,1078
+Europe,Belarus,114,147,141,333,13,62,810
+Africa,Angola,98,63,188,125,,,474
+Asia,Iran,413,3,3,3,2,,424
+Europe,Armenia,110,18,,228,,,356
+Asia,Turkey,,,,280,32,31,344
+Asia,Syria,3,32,181,,84,11,311
+Europe,Serbia,14,65,,67,119,31,296
+Asia,Bangladesh,154,93,,34,,,281
+Asia,Pakistan,49,44,70,64,40,11,278
+Asia,Myanmar,,69,72,31,64,,235
+Asia,UAE,,,40,80,80,,200
+Europe,Azerbaijan,7,109,53,,,,169
+Asia,Uzbekistan,,8,8,48,46,47,156
+Asia,Jordan,,,60,60,,,120
+Asia,Laos,,,66,18,17,3,105
+Africa,Nigeria,,24,24,13,38,7,105
+North America,Nicaragua,86,7,,,,,93
+Africa,Sudan,51,24,0,,,,75
+Africa,Mali,,23,,12,12,27,73
+Africa,Ethiopia,,,,69,,,69
+Asia,Turkmenistan,36,,,,,7,43
+Asia,Qatar,,,20,20,,,40
+Asia,Kyrgyzstan,9,13,1,14,,,37
+Asia,Thailand,,,14,,,20,34
+Asia,Bahrain,10,,21,,,,31
+Asia,Tajikistan,8,19,,3,,,30
+South America,Peru,20,,,,,,20
+Asia,Mongolia,,,,17,,,17
+Africa,Burkina Faso,,,14,,,,14
+Africa,Niger,,,,,14,,14
+Asia,Saudi Arabia,,,,12,,,12
+Africa,Cameroon,11,,,,,,11
+Asia,Indonesia,,,,,,9,9
+Africa,Equatorial Guinea,,,7,,,,7
+Africa,Mozambique,,,,7,,,7
+South America,Brazil,5,,,,,,5
+Asia,Cambodia,,,,,,5,5
+Africa,Zambia,,,,5,,,5
+Africa,South Sudan,4,,,,,,4
+Others,Unknown recipient(s),,,,,3,,3
+Africa,Central African Republic,,,,,1,,1
+Europe,Greece,,,,1,,,1
+Africa,Cote d'Ivoire,,,0,,,,0
